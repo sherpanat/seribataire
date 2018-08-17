@@ -1,3 +1,3 @@
 import "./home.scss";
 
-console.log("caca")
+console.log("test");

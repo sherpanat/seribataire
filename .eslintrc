@@ -8,7 +8,11 @@
   },
 
   "rules": {
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "no-console": 0,
+    "no-unused-vars": 1,
+    "no-alert": 0,
+    "import/no-extraneous-dependencies": ["error", {"devDependencies": true}]
   },
 
   "parser": "babel-eslint",

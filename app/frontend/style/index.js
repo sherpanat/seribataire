@@ -1,3 +1,2 @@
-import './application';
-
-import '@fortawesome/fontawesome-free/js/all'
+import "@fortawesome/fontawesome-free/js/all";
+import "./application.scss";

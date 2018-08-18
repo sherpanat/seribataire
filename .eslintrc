@@ -12,6 +12,8 @@
     "no-console": 0,
     "no-unused-vars": 1,
     "no-alert": 0,
+    "jsx-quotes": 0,
+    "quotes": 0,
     "import/no-extraneous-dependencies": ["error", {"devDependencies": true}]
   },
 
